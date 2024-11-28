@@ -131,7 +131,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
 
         .logout:hover {
-            color: #00a4fe;
+            color: #00a4fe; 
         }
     </style>
 </head>
@@ -156,3 +156,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </div>
 </body>
 </html>
+
+
